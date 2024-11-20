@@ -1,3 +1,4 @@
 0535. 📚 docs: write FAQ section
 0705. 🔧 refactor: refactor quiz grading logic
 0651. ✨ feat: enable dark mode toggle
+0268. 🐛 fix: prevent crash on empty input
