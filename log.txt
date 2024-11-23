@@ -11,3 +11,4 @@
 0650. ✅ test: add unit test for quiz service
 0998. 🐛 fix: fix null pointer exception on login
 0928. 🎨 style: apply consistent indentation
+0590. 🐛 fix: fix null pointer exception on login
