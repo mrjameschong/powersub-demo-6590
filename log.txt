@@ -9,3 +9,4 @@
 0989. 📚 docs: write FAQ section
 0853. 🔧 refactor: refactor quiz grading logic
 0650. ✅ test: add unit test for quiz service
+0998. 🐛 fix: fix null pointer exception on login
