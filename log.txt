@@ -19,3 +19,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0677. 📚 docs: add API usage examples
 0252. 🎨 style: remove trailing whitespace
+0736. 🐛 fix: fix null pointer exception on login
