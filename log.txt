@@ -20,3 +20,4 @@
 0677. 📚 docs: add API usage examples
 0252. 🎨 style: remove trailing whitespace
 0736. 🐛 fix: fix null pointer exception on login
+0791. 🔧 refactor: clean up auth middleware
