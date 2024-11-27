@@ -23,3 +23,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0317. ✅ test: test user registration edge cases
 0993. ✨ feat: implement quiz timer feature
+0902. ✨ feat: enable dark mode toggle
