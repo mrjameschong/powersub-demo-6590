@@ -25,3 +25,4 @@
 0993. ✨ feat: implement quiz timer feature
 0902. ✨ feat: enable dark mode toggle
 0875. ✅ test: increase coverage on auth module
+0231. 🔧 refactor: clean up auth middleware
