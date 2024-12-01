@@ -30,3 +30,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0196. ♻️ chore: bump dependencies
 0323. 📚 docs: clarify environment setup
+0792. 🎨 style: standardize quote style
