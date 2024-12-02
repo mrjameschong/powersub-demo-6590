@@ -32,3 +32,4 @@
 0323. 📚 docs: clarify environment setup
 0792. 🎨 style: standardize quote style
 0737. 🐛 fix: handle 500 error in quiz API
+0655. 🚀 perf: cache repeated calculations
