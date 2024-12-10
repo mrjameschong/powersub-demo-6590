@@ -43,3 +43,4 @@
 0221. ✨ feat: add user authentication
 0728. 🔧 refactor: split large controller into smaller functions
 0412. ✅ test: increase coverage on auth module
+0573. ✅ test: add integration test for /submit endpoint
