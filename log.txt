@@ -45,3 +45,4 @@
 0412. ✅ test: increase coverage on auth module
 0573. ✅ test: add integration test for /submit endpoint
 0058. ♻️ chore: add GitHub actions badge
+0851. ✅ test: mock database connection in test suite
