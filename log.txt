@@ -51,3 +51,4 @@
 0593. 🐛 fix: correct typo in registration form
 0551. 📚 docs: write FAQ section
 0841. 🚀 perf: optimize database query for quiz results
+0785. ✨ feat: enable dark mode toggle
