@@ -54,3 +54,4 @@
 0785. ✨ feat: enable dark mode toggle
 0633. ✨ feat: add user authentication
 0606. 📚 docs: improve code comments in utils
+0811. 🎨 style: reformat files with black
