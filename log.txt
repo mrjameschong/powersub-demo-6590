@@ -63,3 +63,4 @@
 0577. ✨ feat: implement quiz timer feature
 0939. 📚 docs: update README with setup steps
 0332. 🎨 style: standardize quote style
+0125. ✅ test: add integration test for /submit endpoint
