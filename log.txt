@@ -74,3 +74,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0116. ✨ feat: support email verification
 0670. ✨ feat: add export to CSV option
+0827. 🚀 perf: optimize database query for quiz results
