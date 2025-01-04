@@ -93,3 +93,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0082. 🔧 refactor: refactor quiz grading logic
 0809. ♻️ chore: rename env.example
+0049. 🐛 fix: handle 500 error in quiz API
