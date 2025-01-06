@@ -97,3 +97,4 @@
 0927. ♻️ chore: bump dependencies
 0191. 🔧 refactor: refactor quiz grading logic
 0933. 📚 docs: clarify environment setup
+0237. 🎨 style: standardize quote style
