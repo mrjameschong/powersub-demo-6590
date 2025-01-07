@@ -98,3 +98,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0933. 📚 docs: clarify environment setup
 0237. 🎨 style: standardize quote style
+0850. ♻️ chore: rename env.example
