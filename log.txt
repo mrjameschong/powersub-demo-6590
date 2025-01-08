@@ -101,3 +101,4 @@
 0850. ♻️ chore: rename env.example
 0767. 🔧 refactor: remove redundant code blocks
 0579. 📚 docs: clarify environment setup
+0936. 🔧 refactor: organize models into subfolders
