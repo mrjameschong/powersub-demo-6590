@@ -108,3 +108,4 @@
 0298. ♻️ chore: update .gitignore
 0953. 🎨 style: remove trailing whitespace
 0454. ♻️ chore: bump dependencies
+0900. 🐛 fix: handle 500 error in quiz API
