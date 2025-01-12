@@ -109,3 +109,4 @@
 0953. 🎨 style: remove trailing whitespace
 0454. ♻️ chore: bump dependencies
 0900. 🐛 fix: handle 500 error in quiz API
+0076. 🎨 style: reformat files with black
