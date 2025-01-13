@@ -112,3 +112,4 @@
 0076. 🎨 style: reformat files with black
 0616. 🚀 perf: lazy-load components
 0210. 🎨 style: apply consistent indentation
+0433. 🐛 fix: prevent crash on empty input
