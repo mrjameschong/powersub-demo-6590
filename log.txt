@@ -111,3 +111,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0076. 🎨 style: reformat files with black
 0616. 🚀 perf: lazy-load components
+0210. 🎨 style: apply consistent indentation
