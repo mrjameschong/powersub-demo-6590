@@ -126,3 +126,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0756. ✨ feat: support email verification
 0541. 🐛 fix: correct typo in registration form
+0018. 🔧 refactor: organize models into subfolders
