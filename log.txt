@@ -124,3 +124,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0133. 🐛 fix: fix null pointer exception on login
 0478. 🐛 fix: resolve issue with date parsing
+0756. ✨ feat: support email verification
