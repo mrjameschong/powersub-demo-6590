@@ -129,3 +129,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0786. ✨ feat: enable dark mode toggle
 0417. 🎨 style: rename variables for clarity
+0463. 🚀 perf: reduce image load time
