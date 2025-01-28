@@ -148,3 +148,4 @@
 0438. ♻️ chore: bump dependencies
 0743. 🎨 style: apply consistent indentation
 0550. 🔧 refactor: split large controller into smaller functions
+0776. ✅ test: add integration test for /submit endpoint
