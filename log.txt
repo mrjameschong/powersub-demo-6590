@@ -152,3 +152,4 @@
 0768. 🎨 style: remove trailing whitespace
 0338. ♻️ chore: add GitHub actions badge
 0759. 🔧 refactor: organize models into subfolders
+0766. 🎨 style: reformat files with black
