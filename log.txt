@@ -157,3 +157,4 @@
 0434. 📚 docs: document token refresh logic
 0184. 📚 docs: improve code comments in utils
 0240. 🔧 refactor: remove redundant code blocks
+0866. 📚 docs: add API usage examples
