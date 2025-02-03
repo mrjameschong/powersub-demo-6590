@@ -159,3 +159,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0866. 📚 docs: add API usage examples
 0996. ✅ test: test user registration edge cases
+0039. ✅ test: add integration test for /submit endpoint
