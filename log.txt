@@ -165,3 +165,4 @@
 0549. ✨ feat: enable dark mode toggle
 0492. 🎨 style: remove trailing whitespace
 0214. 📚 docs: improve code comments in utils
+0946. ✅ test: add unit test for quiz service
