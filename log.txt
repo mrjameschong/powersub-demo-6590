@@ -168,3 +168,4 @@
 0946. ✅ test: add unit test for quiz service
 0746. ♻️ chore: add GitHub actions badge
 0861. ♻️ chore: clean up unused files
+0331. 🐛 fix: fix broken CSS in mobile view
