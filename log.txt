@@ -169,3 +169,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0861. ♻️ chore: clean up unused files
 0331. 🐛 fix: fix broken CSS in mobile view
+0872. 🎨 style: rename variables for clarity
