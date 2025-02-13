@@ -175,3 +175,4 @@
 0918. ✨ feat: enable dark mode toggle
 0632. 🎨 style: remove trailing whitespace
 0709. ♻️ chore: bump dependencies
+0782. 📚 docs: improve code comments in utils
