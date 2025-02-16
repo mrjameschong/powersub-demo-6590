@@ -178,3 +178,4 @@
 0782. 📚 docs: improve code comments in utils
 0558. ✨ feat: enable dark mode toggle
 0145. 📚 docs: improve code comments in utils
+0913. 🚀 perf: optimize database query for quiz results
