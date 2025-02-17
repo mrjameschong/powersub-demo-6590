@@ -182,3 +182,4 @@
 0749. ✨ feat: support email verification
 0174. 📚 docs: clarify environment setup
 0410. 🎨 style: reformat files with black
+0797. 📚 docs: add API usage examples
