@@ -194,3 +194,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0576. ♻️ chore: update .gitignore
 0806. 📚 docs: improve code comments in utils
+0370. 🚀 perf: reduce image load time
