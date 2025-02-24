@@ -199,3 +199,4 @@
 0626. 🎨 style: standardize quote style
 0799. ♻️ chore: clean up unused files
 0513. ♻️ chore: bump dependencies
+0504. 📚 docs: document token refresh logic
