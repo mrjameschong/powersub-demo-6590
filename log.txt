@@ -201,3 +201,4 @@
 0513. ♻️ chore: bump dependencies
 0504. 📚 docs: document token refresh logic
 0819. 🚀 perf: reduce image load time
+0750. 🎨 style: apply consistent indentation
