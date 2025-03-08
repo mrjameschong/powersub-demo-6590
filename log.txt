@@ -224,3 +224,4 @@
 0311. 🎨 style: apply consistent indentation
 0408. ♻️ chore: add GitHub actions badge
 0070. ✨ feat: implement quiz timer feature
+0026. 🔧 refactor: clean up auth middleware
