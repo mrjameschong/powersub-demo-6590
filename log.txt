@@ -222,3 +222,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0129. 🔧 refactor: organize models into subfolders
 0311. 🎨 style: apply consistent indentation
+0408. ♻️ chore: add GitHub actions badge
