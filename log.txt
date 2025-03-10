@@ -227,3 +227,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0146. 🎨 style: apply consistent indentation
 0230. ✨ feat: create admin dashboard
+0523. ♻️ chore: bump dependencies
