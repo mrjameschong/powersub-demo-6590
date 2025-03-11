@@ -232,3 +232,4 @@
 0225. 🚀 perf: reduce image load time
 0675. 🔧 refactor: organize models into subfolders
 0848. 📚 docs: update README with setup steps
+0098. 🎨 style: rename variables for clarity
