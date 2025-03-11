@@ -230,3 +230,4 @@
 0523. ♻️ chore: bump dependencies
 0982. 🚀 perf: lazy-load components
 0225. 🚀 perf: reduce image load time
+0675. 🔧 refactor: organize models into subfolders
