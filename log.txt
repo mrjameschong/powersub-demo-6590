@@ -240,3 +240,4 @@
 0471. ✨ feat: support email verification
 0795. 📚 docs: update README with setup steps
 0288. 🔧 refactor: refactor quiz grading logic
+0552. 🐛 fix: fix null pointer exception on login
