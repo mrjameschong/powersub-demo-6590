@@ -244,3 +244,4 @@
 0369. 🎨 style: standardize quote style
 0849. 🐛 fix: correct typo in registration form
 0447. ♻️ chore: bump dependencies
+0682. ♻️ chore: rename env.example
