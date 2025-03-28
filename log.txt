@@ -262,3 +262,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0445. 📚 docs: improve code comments in utils
 0193. 🚀 perf: optimize database query for quiz results
+0395. 📚 docs: write FAQ section
