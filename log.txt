@@ -265,3 +265,4 @@
 0395. 📚 docs: write FAQ section
 0120. ✅ test: add integration test for /submit endpoint
 0847. ♻️ chore: clean up unused files
+0057. 🚀 perf: optimize database query for quiz results
