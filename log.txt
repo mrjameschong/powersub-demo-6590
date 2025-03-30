@@ -270,3 +270,4 @@
 0347. ♻️ chore: update .gitignore
 0334. 🚀 perf: cache repeated calculations
 0350. 🚀 perf: cache repeated calculations
+0594. 🎨 style: reformat files with black
