@@ -272,3 +272,4 @@
 0350. 🚀 perf: cache repeated calculations
 0594. 🎨 style: reformat files with black
 0219. ✅ test: increase coverage on auth module
+0637. 🎨 style: apply consistent indentation
