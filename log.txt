@@ -277,3 +277,4 @@
 0216. 🎨 style: rename variables for clarity
 0804. ♻️ chore: add GitHub actions badge
 0008. 🚀 perf: reduce image load time
+0063. 🐛 fix: handle 500 error in quiz API
