@@ -298,3 +298,4 @@
 0083. 🎨 style: reformat files with black
 0176. 🔧 refactor: remove redundant code blocks
 0718. 🐛 fix: resolve issue with date parsing
+0489. 🔧 refactor: organize models into subfolders
