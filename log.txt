@@ -317,3 +317,4 @@
 0883. 📚 docs: improve code comments in utils
 0442. 🎨 style: standardize quote style
 0470. 🎨 style: remove trailing whitespace
+0783. 🐛 fix: handle 500 error in quiz API
