@@ -332,3 +332,4 @@
 0260. ✨ feat: create admin dashboard
 0020. ✅ test: add integration test for /submit endpoint
 0952. 🔧 refactor: split large controller into smaller functions
+0021. ✨ feat: support email verification
