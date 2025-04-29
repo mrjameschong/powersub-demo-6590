@@ -339,3 +339,4 @@
 0519. 📚 docs: document token refresh logic
 0134. ✨ feat: implement quiz timer feature
 0431. 🎨 style: reformat files with black
+0386. 🚀 perf: optimize database query for quiz results
