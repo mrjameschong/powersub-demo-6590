@@ -344,3 +344,4 @@
 0793. 📚 docs: clarify environment setup
 0003. ✅ test: increase coverage on auth module
 0794. ♻️ chore: clean up unused files
+0725. 🚀 perf: lazy-load components
