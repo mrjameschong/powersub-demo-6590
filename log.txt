@@ -350,3 +350,4 @@
 0935. 📚 docs: update README with setup steps
 0440. 📚 docs: update README with setup steps
 0209. ✨ feat: implement quiz timer feature
+0526. ✨ feat: add user authentication
