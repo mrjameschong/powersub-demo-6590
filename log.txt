@@ -355,3 +355,4 @@
 0707. 🎨 style: apply consistent indentation
 0574. ✨ feat: enable dark mode toggle
 0161. ✨ feat: create admin dashboard
+0923. ✨ feat: support email verification
