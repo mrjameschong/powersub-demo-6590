@@ -356,3 +356,4 @@
 0574. ✨ feat: enable dark mode toggle
 0161. ✨ feat: create admin dashboard
 0923. ✨ feat: support email verification
+0837. 🚀 perf: cache repeated calculations
