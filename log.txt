@@ -359,3 +359,4 @@
 0837. 🚀 perf: cache repeated calculations
 0480. ♻️ chore: add GitHub actions badge
 0407. 🚀 perf: cache repeated calculations
+0206. 🐛 fix: handle 500 error in quiz API
