@@ -362,3 +362,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0502. 📚 docs: update README with setup steps
 0124. 🎨 style: reformat files with black
+0485. 📚 docs: update README with setup steps
