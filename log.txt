@@ -368,3 +368,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0339. 📚 docs: update README with setup steps
 0615. 🐛 fix: correct typo in registration form
+0816. 🔧 refactor: organize models into subfolders
