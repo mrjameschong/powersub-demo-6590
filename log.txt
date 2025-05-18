@@ -369,3 +369,4 @@
 0339. 📚 docs: update README with setup steps
 0615. 🐛 fix: correct typo in registration form
 0816. 🔧 refactor: organize models into subfolders
+0506. 🐛 fix: handle 500 error in quiz API
