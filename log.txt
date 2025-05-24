@@ -382,3 +382,4 @@
 0273. 🚀 perf: reduce image load time
 0017. ✅ test: mock database connection in test suite
 0325. 🎨 style: rename variables for clarity
+0263. 📚 docs: add API usage examples
