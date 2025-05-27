@@ -386,3 +386,4 @@
 0739. 🎨 style: remove trailing whitespace
 0001. 🚀 perf: cache repeated calculations
 0309. 🔧 refactor: refactor quiz grading logic
+0108. 🎨 style: remove trailing whitespace
