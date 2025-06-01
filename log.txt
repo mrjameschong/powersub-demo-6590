@@ -392,3 +392,4 @@
 0929. ✨ feat: support email verification
 0865. ♻️ chore: add GitHub actions badge
 0181. ♻️ chore: add GitHub actions badge
+0197. 📚 docs: update README with setup steps
