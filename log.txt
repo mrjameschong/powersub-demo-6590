@@ -391,3 +391,4 @@
 0638. 📚 docs: improve code comments in utils
 0929. ✨ feat: support email verification
 0865. ♻️ chore: add GitHub actions badge
+0181. ♻️ chore: add GitHub actions badge
