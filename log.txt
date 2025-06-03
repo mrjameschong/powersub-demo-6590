@@ -394,3 +394,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0197. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
+0907. 🔧 refactor: split large controller into smaller functions
