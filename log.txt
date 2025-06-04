@@ -397,3 +397,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0882. 🚀 perf: optimize database query for quiz results
 0984. ♻️ chore: clean up unused files
+0568. 🐛 fix: handle 500 error in quiz API
