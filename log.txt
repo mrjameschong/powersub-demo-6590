@@ -395,3 +395,4 @@
 0197. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
 0907. 🔧 refactor: split large controller into smaller functions
+0882. 🚀 perf: optimize database query for quiz results
