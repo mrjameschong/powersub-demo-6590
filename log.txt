@@ -400,3 +400,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0491. 🚀 perf: lazy-load components
 0270. ♻️ chore: rename env.example
+0741. 🎨 style: apply consistent indentation
