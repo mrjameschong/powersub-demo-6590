@@ -401,3 +401,4 @@
 0491. 🚀 perf: lazy-load components
 0270. ♻️ chore: rename env.example
 0741. 🎨 style: apply consistent indentation
+0348. ✅ test: test user registration edge cases
