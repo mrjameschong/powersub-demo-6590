@@ -404,3 +404,4 @@
 0348. ✅ test: test user registration edge cases
 0314. ✨ feat: implement quiz timer feature
 0405. ✅ test: mock database connection in test suite
+0136. 🚀 perf: lazy-load components
