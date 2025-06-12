@@ -414,3 +414,4 @@
 0015. ✨ feat: implement quiz timer feature
 0668. 🚀 perf: optimize database query for quiz results
 0595. ✨ feat: enable dark mode toggle
+0981. 🚀 perf: lazy-load components
