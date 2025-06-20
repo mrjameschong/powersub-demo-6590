@@ -424,3 +424,4 @@
 0556. ✨ feat: support email verification
 0603. 🐛 fix: fix broken CSS in mobile view
 0121. ✨ feat: support email verification
+0507. 🔧 refactor: clean up auth middleware
