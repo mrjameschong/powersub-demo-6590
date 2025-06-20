@@ -426,3 +426,4 @@
 0121. ✨ feat: support email verification
 0507. 🔧 refactor: clean up auth middleware
 0212. 🎨 style: standardize quote style
+0820. 📚 docs: add API usage examples
