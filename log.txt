@@ -432,3 +432,4 @@
 0306. 🎨 style: apply consistent indentation
 0970. ♻️ chore: update .gitignore
 0097. 🐛 fix: handle 500 error in quiz API
+0150. 🎨 style: remove trailing whitespace
