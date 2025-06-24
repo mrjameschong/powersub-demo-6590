@@ -435,3 +435,4 @@
 0150. 🎨 style: remove trailing whitespace
 0032. 🎨 style: apply consistent indentation
 0836. 🚀 perf: optimize database query for quiz results
+0826. 📚 docs: clarify environment setup
