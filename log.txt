@@ -441,3 +441,4 @@
 0720. ✨ feat: add export to CSV option
 0559. 🔧 refactor: split large controller into smaller functions
 0530. 🔧 refactor: refactor quiz grading logic
+0630. 🚀 perf: lazy-load components
