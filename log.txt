@@ -442,3 +442,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0530. 🔧 refactor: refactor quiz grading logic
 0630. 🚀 perf: lazy-load components
+0041. 🐛 fix: fix broken CSS in mobile view
