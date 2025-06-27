@@ -445,3 +445,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0542. 🔧 refactor: organize models into subfolders
 0274. 🔧 refactor: refactor quiz grading logic
+0110. 🐛 fix: prevent crash on empty input
