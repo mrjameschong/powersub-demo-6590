@@ -447,3 +447,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0110. 🐛 fix: prevent crash on empty input
 0336. ✨ feat: add export to CSV option
+0685. ✅ test: test user registration edge cases
