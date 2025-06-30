@@ -449,3 +449,4 @@
 0336. ✨ feat: add export to CSV option
 0685. ✅ test: test user registration edge cases
 0512. 🚀 perf: reduce image load time
+0645. 🐛 fix: resolve issue with date parsing
