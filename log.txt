@@ -460,3 +460,4 @@
 0313. 🎨 style: apply consistent indentation
 0986. 📚 docs: document token refresh logic
 0165. 🎨 style: remove trailing whitespace
+0356. 📚 docs: write FAQ section
