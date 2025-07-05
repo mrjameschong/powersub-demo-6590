@@ -459,3 +459,4 @@
 0300. ✨ feat: add export to CSV option
 0313. 🎨 style: apply consistent indentation
 0986. 📚 docs: document token refresh logic
+0165. 🎨 style: remove trailing whitespace
