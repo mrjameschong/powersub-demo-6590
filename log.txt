@@ -463,3 +463,4 @@
 0356. 📚 docs: write FAQ section
 0106. 🎨 style: reformat files with black
 0777. 📚 docs: document token refresh logic
+0696. 🔧 refactor: clean up auth middleware
