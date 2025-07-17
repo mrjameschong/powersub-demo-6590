@@ -479,3 +479,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0435. ✅ test: add unit test for quiz service
 0234. ♻️ chore: rename env.example
+0394. 🚀 perf: lazy-load components
