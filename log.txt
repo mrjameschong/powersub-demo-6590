@@ -491,3 +491,4 @@
 0177. 📚 docs: add API usage examples
 0854. ♻️ chore: rename env.example
 0312. ✨ feat: add user authentication
+0571. 🔧 refactor: clean up auth middleware
