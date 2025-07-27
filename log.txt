@@ -500,3 +500,4 @@
 0596. ♻️ chore: update .gitignore
 0695. ✨ feat: create admin dashboard
 0765. ♻️ chore: clean up unused files
+0727. ♻️ chore: add GitHub actions badge
