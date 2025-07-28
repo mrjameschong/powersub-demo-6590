@@ -503,3 +503,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0324. 📚 docs: document token refresh logic
 0112. ✨ feat: enable dark mode toggle
+0456. 🚀 perf: optimize database query for quiz results
