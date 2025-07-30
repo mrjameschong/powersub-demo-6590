@@ -510,3 +510,4 @@
 0597. 🚀 perf: cache repeated calculations
 0983. 🔧 refactor: split large controller into smaller functions
 0158. 📚 docs: clarify environment setup
+0566. 📚 docs: write FAQ section
