@@ -512,3 +512,4 @@
 0158. 📚 docs: clarify environment setup
 0566. 📚 docs: write FAQ section
 0372. ✨ feat: add user authentication
+0706. ✨ feat: support email verification
