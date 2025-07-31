@@ -514,3 +514,4 @@
 0372. ✨ feat: add user authentication
 0706. ✨ feat: support email verification
 0678. ✨ feat: add user authentication
+0770. ♻️ chore: rename env.example
