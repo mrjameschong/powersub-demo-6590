@@ -517,3 +517,4 @@
 0770. ♻️ chore: rename env.example
 0132. ✅ test: add unit test for quiz service
 0833. ✨ feat: add user authentication
+0247. 🎨 style: apply consistent indentation
