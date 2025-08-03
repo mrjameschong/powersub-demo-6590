@@ -523,3 +523,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0922. 📚 docs: write FAQ section
 0524. ♻️ chore: rename env.example
+0014. 🔧 refactor: remove redundant code blocks
