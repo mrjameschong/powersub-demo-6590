@@ -526,3 +526,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0406. ✨ feat: add export to CSV option
 0654. ✨ feat: create admin dashboard
+0319. 🐛 fix: handle 500 error in quiz API
