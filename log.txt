@@ -528,3 +528,4 @@
 0654. ✨ feat: create admin dashboard
 0319. 🐛 fix: handle 500 error in quiz API
 0363. 📚 docs: clarify environment setup
+0644. 🎨 style: apply consistent indentation
