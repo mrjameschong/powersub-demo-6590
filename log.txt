@@ -531,3 +531,4 @@
 0644. 🎨 style: apply consistent indentation
 0731. 🎨 style: standardize quote style
 0474. ✅ test: add unit test for quiz service
+0527. 🎨 style: remove trailing whitespace
