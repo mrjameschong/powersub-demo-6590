@@ -534,3 +534,4 @@
 0527. 🎨 style: remove trailing whitespace
 0366. 🔧 refactor: remove redundant code blocks
 0583. ✅ test: increase coverage on auth module
+0926. 🔧 refactor: organize models into subfolders
