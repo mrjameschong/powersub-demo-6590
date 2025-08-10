@@ -535,3 +535,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0583. ✅ test: increase coverage on auth module
 0926. 🔧 refactor: organize models into subfolders
+0703. 🔧 refactor: clean up auth middleware
