@@ -540,3 +540,4 @@
 0842. 🎨 style: remove trailing whitespace
 0895. ✨ feat: support email verification
 0246. ✅ test: add integration test for /submit endpoint
+0813. 🔧 refactor: organize models into subfolders
