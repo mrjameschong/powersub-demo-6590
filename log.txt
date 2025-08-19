@@ -554,3 +554,4 @@
 0349. ✅ test: increase coverage on auth module
 0899. 🚀 perf: cache repeated calculations
 0901. ✨ feat: add user authentication
+0713. 🐛 fix: handle 500 error in quiz API
