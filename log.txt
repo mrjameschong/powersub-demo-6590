@@ -567,3 +567,4 @@
 0887. 📚 docs: add API usage examples
 0194. 🎨 style: standardize quote style
 0956. 📚 docs: clarify environment setup
+0149. ✨ feat: add export to CSV option
