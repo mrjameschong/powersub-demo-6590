@@ -594,3 +594,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0683. ✅ test: mock database connection in test suite
 0589. 🐛 fix: fix broken CSS in mobile view
+0830. 🎨 style: apply consistent indentation
