@@ -595,3 +595,4 @@
 0683. ✅ test: mock database connection in test suite
 0589. 🐛 fix: fix broken CSS in mobile view
 0830. 🎨 style: apply consistent indentation
+0054. ♻️ chore: update .gitignore
