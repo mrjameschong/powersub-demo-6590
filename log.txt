@@ -596,3 +596,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0830. 🎨 style: apply consistent indentation
 0054. ♻️ chore: update .gitignore
+0353. ♻️ chore: rename env.example
