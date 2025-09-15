@@ -605,3 +605,4 @@
 0846. ✨ feat: implement quiz timer feature
 0156. 🎨 style: rename variables for clarity
 0974. ✨ feat: add export to CSV option
+0561. 📚 docs: write FAQ section
