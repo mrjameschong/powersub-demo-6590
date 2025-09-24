@@ -624,3 +624,4 @@
 0798. 🚀 perf: reduce image load time
 0163. ✨ feat: implement quiz timer feature
 0657. 🎨 style: standardize quote style
+0192. ✨ feat: enable dark mode toggle
