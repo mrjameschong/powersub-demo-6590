@@ -644,3 +644,4 @@
 0745. ✅ test: add unit test for quiz service
 0824. 🚀 perf: lazy-load components
 0429. ✨ feat: add user authentication
+0105. 🐛 fix: correct typo in registration form
