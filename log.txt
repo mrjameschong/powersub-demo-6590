@@ -645,3 +645,4 @@
 0824. 🚀 perf: lazy-load components
 0429. ✨ feat: add user authentication
 0105. 🐛 fix: correct typo in registration form
+0141. 📚 docs: document token refresh logic
