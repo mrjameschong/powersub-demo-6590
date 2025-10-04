@@ -648,3 +648,4 @@
 0141. 📚 docs: document token refresh logic
 0073. 🔧 refactor: split large controller into smaller functions
 0011. ✅ test: add unit test for quiz service
+0690. 🚀 perf: lazy-load components
