@@ -658,3 +658,4 @@
 0679. ♻️ chore: bump dependencies
 0307. ✨ feat: support email verification
 0666. 🐛 fix: fix broken CSS in mobile view
+0784. ♻️ chore: clean up unused files
