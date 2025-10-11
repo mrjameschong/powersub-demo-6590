@@ -661,3 +661,4 @@
 0784. ♻️ chore: clean up unused files
 0390. 🎨 style: standardize quote style
 0612. ✅ test: test user registration edge cases
+0122. ✨ feat: support email verification
