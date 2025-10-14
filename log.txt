@@ -667,3 +667,4 @@
 0659. 📚 docs: add API usage examples
 0271. ✅ test: add unit test for quiz service
 0940. 📚 docs: document token refresh logic
+0080. ✨ feat: support email verification
