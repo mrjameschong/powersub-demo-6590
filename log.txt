@@ -675,3 +675,4 @@
 0051. ✨ feat: enable dark mode toggle
 0100. ♻️ chore: update .gitignore
 0810. 🔧 refactor: refactor quiz grading logic
+0775. 🐛 fix: fix null pointer exception on login
