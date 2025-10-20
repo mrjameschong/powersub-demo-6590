@@ -680,3 +680,4 @@
 0189. 📚 docs: clarify environment setup
 0796. 🔧 refactor: refactor quiz grading logic
 0404. 📚 docs: improve code comments in utils
+0418. ✅ test: mock database connection in test suite
