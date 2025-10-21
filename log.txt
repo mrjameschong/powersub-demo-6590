@@ -682,3 +682,4 @@
 0404. 📚 docs: improve code comments in utils
 0418. ✅ test: mock database connection in test suite
 0308. 🚀 perf: reduce image load time
+0111. 📚 docs: update README with setup steps
