@@ -689,3 +689,4 @@
 0857. 🎨 style: rename variables for clarity
 0152. ✨ feat: add user authentication
 0469. 🚀 perf: lazy-load components
+0222. 🐛 fix: handle 500 error in quiz API
