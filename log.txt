@@ -697,3 +697,4 @@
 0195. 📚 docs: clarify environment setup
 0947. 📚 docs: write FAQ section
 0302. ✨ feat: implement quiz timer feature
+0937. 🐛 fix: handle 500 error in quiz API
