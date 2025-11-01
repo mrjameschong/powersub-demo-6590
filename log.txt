@@ -700,3 +700,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 1000. ✅ test: increase coverage on auth module
 0099. 🚀 perf: reduce image load time
+0554. 📚 docs: improve code comments in utils
