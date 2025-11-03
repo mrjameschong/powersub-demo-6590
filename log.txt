@@ -704,3 +704,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0636. ✅ test: increase coverage on auth module
 0330. ✅ test: test user registration edge cases
+0712. 🎨 style: apply consistent indentation
