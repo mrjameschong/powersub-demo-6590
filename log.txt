@@ -708,3 +708,4 @@
 0517. ✅ test: mock database connection in test suite
 0564. 📚 docs: clarify environment setup
 0985. 📚 docs: document token refresh logic
+0093. ✅ test: add unit test for quiz service
