@@ -712,3 +712,4 @@
 0060. ♻️ chore: clean up unused files
 0963. 🚀 perf: reduce image load time
 0053. ✅ test: increase coverage on auth module
+0380. 🐛 fix: fix null pointer exception on login
