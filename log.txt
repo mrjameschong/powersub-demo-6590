@@ -714,3 +714,4 @@
 0053. ✅ test: increase coverage on auth module
 0380. 🐛 fix: fix null pointer exception on login
 0162. ♻️ chore: add GitHub actions badge
+0303. 🎨 style: rename variables for clarity
