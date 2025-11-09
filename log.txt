@@ -713,3 +713,4 @@
 0963. 🚀 perf: reduce image load time
 0053. ✅ test: increase coverage on auth module
 0380. 🐛 fix: fix null pointer exception on login
+0162. ♻️ chore: add GitHub actions badge
