@@ -716,3 +716,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0303. 🎨 style: rename variables for clarity
 0674. 🔧 refactor: split large controller into smaller functions
+0903. ✅ test: mock database connection in test suite
