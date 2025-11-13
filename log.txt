@@ -721,3 +721,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0653. 🐛 fix: prevent crash on empty input
 0687. 🎨 style: remove trailing whitespace
+0102. ✨ feat: support email verification
