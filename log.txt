@@ -726,3 +726,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0569. 📚 docs: document token refresh logic
 0167. 🚀 perf: reduce image load time
+0522. 🐛 fix: handle 500 error in quiz API
