@@ -730,3 +730,4 @@
 0173. 🚀 perf: cache repeated calculations
 0667. ✨ feat: add export to CSV option
 0992. ♻️ chore: clean up unused files
+0531. 🐛 fix: prevent crash on empty input
