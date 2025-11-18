@@ -733,3 +733,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0821. ✅ test: add integration test for /submit endpoint
 0422. 🔧 refactor: organize models into subfolders
+0175. 📚 docs: add API usage examples
