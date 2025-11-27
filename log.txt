@@ -751,3 +751,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0448. 🐛 fix: correct typo in registration form
 0617. ✨ feat: support email verification
+0062. ♻️ chore: update .gitignore
