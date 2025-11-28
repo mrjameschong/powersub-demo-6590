@@ -753,3 +753,4 @@
 0617. ✨ feat: support email verification
 0062. ♻️ chore: update .gitignore
 0377. ✨ feat: add user authentication
+0719. 🎨 style: apply consistent indentation
