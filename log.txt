@@ -758,3 +758,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0079. 🐛 fix: correct typo in registration form
 0140. 🐛 fix: handle 500 error in quiz API
+0968. 🎨 style: standardize quote style
