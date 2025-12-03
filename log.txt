@@ -766,3 +766,4 @@
 0335. ♻️ chore: update .gitignore
 0486. ✨ feat: add export to CSV option
 0420. 🚀 perf: reduce image load time
+0880. 🐛 fix: fix broken CSS in mobile view
