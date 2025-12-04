@@ -770,3 +770,4 @@
 0232. 🎨 style: apply consistent indentation
 0453. 🎨 style: standardize quote style
 0090. ✅ test: increase coverage on auth module
+0361. ✨ feat: support email verification
