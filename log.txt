@@ -769,3 +769,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0232. 🎨 style: apply consistent indentation
 0453. 🎨 style: standardize quote style
+0090. ✅ test: increase coverage on auth module
