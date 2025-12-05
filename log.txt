@@ -772,3 +772,4 @@
 0090. ✅ test: increase coverage on auth module
 0361. ✨ feat: support email verification
 0064. 📚 docs: clarify environment setup
+0381. ♻️ chore: clean up unused files
