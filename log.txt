@@ -774,3 +774,4 @@
 0064. 📚 docs: clarify environment setup
 0381. ♻️ chore: clean up unused files
 0754. 🐛 fix: handle 500 error in quiz API
+0548. 📚 docs: write FAQ section
