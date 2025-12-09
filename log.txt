@@ -775,3 +775,4 @@
 0381. ♻️ chore: clean up unused files
 0754. 🐛 fix: handle 500 error in quiz API
 0548. 📚 docs: write FAQ section
+0545. 🎨 style: standardize quote style
