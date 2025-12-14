@@ -782,3 +782,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0255. 🔧 refactor: refactor quiz grading logic
 0144. ✅ test: increase coverage on auth module
+0921. 🐛 fix: correct typo in registration form
