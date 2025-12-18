@@ -791,3 +791,4 @@
 0094. 📚 docs: document token refresh logic
 0375. 🐛 fix: handle 500 error in quiz API
 0262. 🎨 style: remove trailing whitespace
+0279. ✨ feat: support email verification
