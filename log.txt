@@ -792,3 +792,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0262. 🎨 style: remove trailing whitespace
 0279. ✨ feat: support email verification
+0086. 🐛 fix: correct typo in registration form
