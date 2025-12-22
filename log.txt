@@ -800,3 +800,4 @@
 0801. ✨ feat: enable dark mode toggle
 0716. ✨ feat: implement quiz timer feature
 0275. 🎨 style: standardize quote style
+0457. 🐛 fix: handle 500 error in quiz API
