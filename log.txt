@@ -805,3 +805,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0075. ✅ test: mock database connection in test suite
 0006. 🐛 fix: prevent crash on empty input
+0278. 🔧 refactor: clean up auth middleware
