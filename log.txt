@@ -810,3 +810,4 @@
 0172. 📚 docs: add API usage examples
 0588. 🔧 refactor: organize models into subfolders
 0912. 📚 docs: document token refresh logic
+0055. 📚 docs: update README with setup steps
