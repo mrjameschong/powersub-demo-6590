@@ -825,3 +825,4 @@
 0844. 📚 docs: update README with setup steps
 0529. 📚 docs: write FAQ section
 0265. 🎨 style: reformat files with black
+0730. ✅ test: test user registration edge cases
