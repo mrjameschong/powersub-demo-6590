@@ -845,3 +845,4 @@
 0198. 📚 docs: clarify environment setup
 0879. 🎨 style: standardize quote style
 0710. 🐛 fix: fix broken CSS in mobile view
+0878. 🔧 refactor: split large controller into smaller functions
