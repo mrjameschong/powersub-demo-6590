@@ -844,3 +844,4 @@
 0908. ♻️ chore: bump dependencies
 0198. 📚 docs: clarify environment setup
 0879. 🎨 style: standardize quote style
+0710. 🐛 fix: fix broken CSS in mobile view
