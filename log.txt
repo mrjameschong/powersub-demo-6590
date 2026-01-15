@@ -849,3 +849,4 @@
 0823. ✨ feat: add user authentication
 0139. 📚 docs: document token refresh logic
 0973. 🔧 refactor: organize models into subfolders
+0855. 🎨 style: reformat files with black
