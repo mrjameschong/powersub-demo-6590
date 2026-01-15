@@ -848,3 +848,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0823. ✨ feat: add user authentication
 0139. 📚 docs: document token refresh logic
+0973. 🔧 refactor: organize models into subfolders
