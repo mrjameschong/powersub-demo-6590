@@ -847,3 +847,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0878. 🔧 refactor: split large controller into smaller functions
 0823. ✨ feat: add user authentication
+0139. 📚 docs: document token refresh logic
