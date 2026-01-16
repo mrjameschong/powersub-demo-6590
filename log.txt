@@ -850,3 +850,4 @@
 0139. 📚 docs: document token refresh logic
 0973. 🔧 refactor: organize models into subfolders
 0855. 🎨 style: reformat files with black
+0680. ♻️ chore: add GitHub actions badge
