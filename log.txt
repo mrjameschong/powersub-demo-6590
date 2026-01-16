@@ -853,3 +853,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0601. ✨ feat: implement quiz timer feature
 0493. ✨ feat: add user authentication
+0443. 🎨 style: standardize quote style
