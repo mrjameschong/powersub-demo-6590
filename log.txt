@@ -854,3 +854,4 @@
 0601. ✨ feat: implement quiz timer feature
 0493. ✨ feat: add user authentication
 0443. 🎨 style: standardize quote style
+0620. ✨ feat: implement quiz timer feature
