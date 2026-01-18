@@ -859,3 +859,4 @@
 0634. 🎨 style: reformat files with black
 0663. 🚀 perf: reduce image load time
 0613. 🐛 fix: prevent crash on empty input
+0892. ✅ test: add unit test for quiz service
