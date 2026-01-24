@@ -873,3 +873,4 @@
 0342. 🚀 perf: cache repeated calculations
 0608. 🔧 refactor: remove redundant code blocks
 0987. ✨ feat: create admin dashboard
+0384. 📚 docs: clarify environment setup
