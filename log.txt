@@ -875,3 +875,4 @@
 0987. ✨ feat: create admin dashboard
 0384. 📚 docs: clarify environment setup
 0048. 📚 docs: update README with setup steps
+0472. 🐛 fix: fix null pointer exception on login
