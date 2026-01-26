@@ -878,3 +878,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0723. 🔧 refactor: remove redundant code blocks
 0316. 🐛 fix: fix broken CSS in mobile view
+0378. 🐛 fix: prevent crash on empty input
