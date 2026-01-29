@@ -883,3 +883,4 @@
 0382. 📚 docs: improve code comments in utils
 0155. ✨ feat: create admin dashboard
 0238. 🎨 style: apply consistent indentation
+0852. ✨ feat: enable dark mode toggle
