@@ -885,3 +885,4 @@
 0238. 🎨 style: apply consistent indentation
 0852. ✨ feat: enable dark mode toggle
 0585. 🚀 perf: lazy-load components
+0672. 🐛 fix: fix broken CSS in mobile view
