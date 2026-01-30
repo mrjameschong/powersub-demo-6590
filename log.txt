@@ -887,3 +887,4 @@
 0585. 🚀 perf: lazy-load components
 0672. 🐛 fix: fix broken CSS in mobile view
 0254. 🚀 perf: reduce image load time
+0077. ♻️ chore: rename env.example
