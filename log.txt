@@ -896,3 +896,4 @@
 0994. 🚀 perf: reduce image load time
 0717. 🔧 refactor: refactor quiz grading logic
 0166. 🚀 perf: cache repeated calculations
+0402. 🎨 style: reformat files with black
