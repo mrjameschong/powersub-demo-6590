@@ -909,3 +909,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0068. 🐛 fix: fix null pointer exception on login
 0092. 🚀 perf: reduce image load time
+0860. 🔧 refactor: organize models into subfolders
