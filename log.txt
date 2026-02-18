@@ -926,3 +926,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0477. 🐛 fix: fix broken CSS in mobile view
 0967. ♻️ chore: add GitHub actions badge
+0649. 📚 docs: update README with setup steps
