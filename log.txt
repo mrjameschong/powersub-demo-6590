@@ -940,3 +940,4 @@
 0385. ♻️ chore: clean up unused files
 0592. 📚 docs: add API usage examples
 0037. 🐛 fix: correct typo in registration form
+0344. ♻️ chore: add GitHub actions badge
