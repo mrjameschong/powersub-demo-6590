@@ -948,3 +948,4 @@
 0704. 🚀 perf: cache repeated calculations
 0828. ♻️ chore: add GitHub actions badge
 0965. 🎨 style: reformat files with black
+0752. ✅ test: add integration test for /submit endpoint
