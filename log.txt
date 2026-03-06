@@ -956,3 +956,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0514. 🐛 fix: fix broken CSS in mobile view
 0543. ✨ feat: support email verification
+0701. 🔧 refactor: clean up auth middleware
