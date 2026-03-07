@@ -960,3 +960,4 @@
 0658. 🎨 style: rename variables for clarity
 0975. 🎨 style: apply consistent indentation
 0368. 🚀 perf: lazy-load components
+0897. 🐛 fix: prevent crash on empty input
