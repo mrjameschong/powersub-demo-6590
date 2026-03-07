@@ -965,3 +965,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0726. ✨ feat: enable dark mode toggle
 0387. ✨ feat: enable dark mode toggle
+0109. 🚀 perf: lazy-load components
