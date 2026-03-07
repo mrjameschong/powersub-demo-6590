@@ -962,3 +962,4 @@
 0368. 🚀 perf: lazy-load components
 0897. 🐛 fix: prevent crash on empty input
 0688. 🚀 perf: reduce image load time
+0096. 🐛 fix: prevent crash on empty input
