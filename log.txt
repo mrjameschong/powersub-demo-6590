@@ -966,3 +966,4 @@
 0726. ✨ feat: enable dark mode toggle
 0387. ✨ feat: enable dark mode toggle
 0109. 🚀 perf: lazy-load components
+0081. 🐛 fix: fix null pointer exception on login
