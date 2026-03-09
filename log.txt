@@ -970,3 +970,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0215. 🎨 style: reformat files with black
 0459. 🔧 refactor: organize models into subfolders
+0761. ✅ test: add unit test for quiz service
