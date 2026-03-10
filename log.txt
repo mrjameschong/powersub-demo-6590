@@ -975,3 +975,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0393. 🚀 perf: lazy-load components
 0291. 📚 docs: write FAQ section
+0223. 🔧 refactor: remove redundant code blocks
