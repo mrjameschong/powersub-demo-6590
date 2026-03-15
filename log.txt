@@ -977,3 +977,4 @@
 0291. 📚 docs: write FAQ section
 0223. 🔧 refactor: remove redundant code blocks
 0202. 🔧 refactor: refactor quiz grading logic
+0646. ✅ test: test user registration edge cases
