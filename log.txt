@@ -989,3 +989,4 @@
 0135. ✅ test: test user registration edge cases
 0186. ✅ test: test user registration edge cases
 0292. 📚 docs: clarify environment setup
+0934. ✨ feat: support email verification
